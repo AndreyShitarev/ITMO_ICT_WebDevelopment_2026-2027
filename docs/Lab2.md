@@ -399,7 +399,7 @@ class CarForm(forms.ModelForm):
 
 Для варианта 6 требуется сайт автогонок. Пользователь должен иметь возможность зарегистрироваться, заполнить данные гонщика, выбрать гонку и управлять своей регистрацией. На странице гонки нужны заезды и результаты, а также комментарии с оценкой. Администратор указывает результаты через Django Admin и может управлять гонками через сайт.
 
-Для сайта я создал проект `students/k3340/laboratory_works/Shitarev_Andrey/laboratory_work_2`. В нем находятся `manage.py`, папка настроек `django_project_shitarev` и приложение `project_first_app`. База этого проекта называется `web_racing_shitarev`.
+Для сайта я создал проект `students/k3340/Shitarev_Andrey/laboratory_work_2`. В нем находятся `manage.py`, папка настроек `django_project_shitarev` и приложение `project_first_app`. База этого проекта называется `web_racing_shitarev`.
 
 ### Настройки и шаблонизация
 
